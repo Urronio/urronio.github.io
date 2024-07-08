@@ -5,6 +5,8 @@ appodeal.com, 109308, DIRECT
 bidmachine.io, 109308, DIRECT
 #AdMob
 google.com, pub-1382977336855838, DIRECT, f08c47fec0942fa0
+#Yandex
+yandex.com, 99256454, DIRECT
 
 #Resellers
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
